@@ -1,13 +1,13 @@
 # Titanic--Machine-Learning-from-Disaster
 Using supervised machine learning to predict survivavibility of Titanic passangers (from Kaggle Challenge)
 
-The link to the challenge is linked below:\
+The link to the challenge is linked below:
 https://www.kaggle.com/c/titanic
 
 ## Approach
 
 **A. Data Processing**\
-Based on given a dataset of titanic passengers, features were extracted such as age, gender, fare, cabin, and survival status.\
+Based on given a dataset of titanic passengers, features were extracted such as age, gender, fare, cabin, and survival status.
 
 Imputation and standardization/normalization of the raw dataset were applied to extract features.
 
